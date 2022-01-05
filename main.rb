@@ -7,9 +7,6 @@ puts player1.get_life
 
 question = Question.new 
 puts "What does #{question.pick_number} plus #{question.pick_number} equal?"
-puts "What does #{question.pick_number} plus #{question.pick_number} equal?"
-puts "What does #{question.pick_number} plus #{question.pick_number} equal?"
-puts "What does #{question.pick_number} plus #{question.pick_number} equal?"
-puts "What does #{question.pick_number} plus #{question.pick_number} equal?"
+
 
 
