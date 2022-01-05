@@ -10,6 +10,10 @@ class Player
     @life
   end
 
+  def reduce_life
+    @life -= 1
+  end
+
   def name
     @name
   end
